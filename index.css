@@ -1,0 +1,186 @@
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    font-family: 'pacifico', cursive;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header Styles */
+header {
+    background-color: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    padding: 10px 0;
+}
+.header-links a:hover{
+    color: rgb(255, 166, 0) !important;
+}
+.topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5%;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.logo h1 {
+    font-size: 1.5rem;
+    margin-left: 10px;
+    color: #2b7a3d;
+}
+
+/* Navigation */
+.nav-links {
+    display: flex;
+    list-style: none;
+}
+
+.nav-links li {
+    margin: 0 15px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+
+
+.btn-login {
+    padding: 8px 15px;
+    background-color: #2b7a3d;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn-login:hover {
+    background-color: #23832e;
+}
+/* === Scrolling News / Offers Section === */
+.scrolling-news {
+    background: #28a745; /* Green background */
+    color: white;
+    font-weight: bold;
+    padding:10px;
+    font-size: 16px;
+    text-align: center;
+}
+
+/* Carousel Section */
+.carousel-section {
+    margin-top: 10px;
+}
+
+.carousel img {
+    height: 450px;
+    object-fit: cover;
+}
+
+/* Introduction Section */
+.intro-section {
+    background-color: #e8f5e9;
+    border-radius: 8px;
+    padding: 30px;
+    margin: 20px auto;
+    max-width: 900px;
+}
+
+/* More to Know Section */
+.more-to-know .info-box {
+    border-left: 5px solid #2b7a3d;
+    transition: transform 0.3s ease-in-out;
+}
+
+.more-to-know .info-box:hover {
+    transform: scale(1.05);
+}
+
+.more-to-know a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.more-to-know a:hover {
+    text-decoration: underline;
+}
+
+
+/* Footer */
+.footer {
+    background-color: #2b7a3d;
+    color: white;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.footer .container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.footer p {
+    font-size: 16px;
+    margin: 10px 0;
+    opacity: 0.9;
+}
+
+.footer .social-icons {
+    margin: 10px 0;
+}
+
+.footer .social-icons a {
+    color: white;
+    font-size: 22px;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+}
+
+.footer .social-icons a:hover {
+    color: #d4f5d6;
+}
+
+/* Additional Footer Sections */
+.footer .footer-links {
+    margin: 20px 0;
+}
+
+.footer .footer-links a {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+}
+
+.footer .footer-links a:hover {
+    color: #77e67e;
+}
+
+.footer .copyright {
+    margin-top: 10px;
+    font-size: 14px;
+    opacity: 0.7;
+}
