@@ -1,14 +1,15 @@
-# My First Web Project
+# E-com Agri
 
-This is a simple web page created using HTML and CSS.  
-It demonstrates basic web design skills including layout, styling, and responsiveness.
+This is a simple e-commerce website for agricultural products built using HTML and CSS.
 
 ## Features
+- Clean and user-friendly interface
+- Responsive design suitable for desktop and mobile
+- Showcases various agricultural products
 
-- Clean and simple layout  
-- Responsive design for different screen sizes  
-- Basic use of CSS for colors, fonts, and spacing
+## How to Use
+- Open `index.html` in your web browser to view the website.
 
-## How to view
+## About Me
+I am a beginner web developer passionate about building practical projects to enhance my skills in front-end development.
 
-Open the `index.html` file in any web browser to see the webpage.
