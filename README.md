@@ -1,15 +1,31 @@
-# E-com Agri
+# 🌾 E-Com Agri
 
-This is a simple e-commerce website for agricultural products built using HTML and CSS.
+A simple e-commerce frontend website for agriculture product listings. Built using **HTML**, **CSS**, and **basic JavaScript** (for dynamic scrolling news ticker).
 
-## Features
-- Clean and user-friendly interface
-- Responsive design suitable for desktop and mobile
-- Showcases various agricultural products
+## ✅ Features
 
-## How to Use
-- Open `index.html` in your web browser to view the website.
+- Clean and responsive layout
+- Product listing pages
+- Admin section (static)
+- Scrolling news ticker
+- Works in browser (no backend)
 
-## About Me
-I am a beginner web developer passionate about building practical projects to enhance my skills in front-end development.
+## 💡 How to Use
 
+1. Download or clone this repo
+2. Open `index.html` in any web browser
+
+## 🔧 Tech Used
+
+- HTML5  
+- CSS3  
+- Basic JavaScript
+
+  ![Screenshot](home.png)
+  ![Screenshot](product.png)
+
+
+## 👤 Author
+
+**Vive**  
+GitHub: [@Vive-Techie](https://github.com/Vive-Techie)
