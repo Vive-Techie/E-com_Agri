@@ -22,10 +22,17 @@ A simple e-commerce frontend website for agriculture product listings. Built usi
 - Basic JavaScript
 
   ![Screenshot](home.png)
+  
   ![Screenshot](product.png)
-🔗 Live Demo: [Click here](https://vive-techie.github.io/E-com_Agri/)
+  
+## 🔗 Live Demo: [Click here](https://vive-techie.github.io/E-com_Agri/)
 
-## 👤 Author
+---
 
-**Vive**  
-GitHub: [@Vive-Techie](https://github.com/Vive-Techie)
+## 👩‍💻 Author
+
+**Vivetha Subramanian**
+
+- 💼 [LinkedIn](https://linkedin.com/in/vivetha20)
+- 💻 [GitHub](https://github.com/vive-techie)
+- 📧 vivethasubramanian@gmail.com
